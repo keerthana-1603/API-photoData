@@ -1,6 +1,3 @@
-
-//  animi-https://api.jikan.moe/v4/anime?q=naruto&sfw
-  
 //  fetch("https://picsum.photos/v2/list?page=3&limit=300")
 //  .then((Response)=>Response.json())
 //  .then((data)=>console.log(data))
