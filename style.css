@@ -1,0 +1,40 @@
+*{
+    background-color:paleturquoise;
+}
+    h1{
+    text-align: center;
+}
+.card{
+    margin:30px;
+    width: 320px;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+}
+.card-header{
+    padding:5px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+.card-text{
+    padding:3px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+
+}
+.btn-btn{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    font-weight: bolder;
+    width: 190px;
+    height: 70px;
+    align-items: center;
+    background-color:black;
+    color:white;
+}
+.picture{
+    width: 300px;
+}
